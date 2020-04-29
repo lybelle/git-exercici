@@ -1,2 +1,4 @@
 Hola,
-sóc el primer arxiu de text.:wq
+sóc el primer arxiu de text.
+
+Actualitzo, el text de master :)
