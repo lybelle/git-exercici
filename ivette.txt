@@ -1,2 +1,4 @@
 Hola,
-sóc el primer arxiu de text.:wq
+sóc el primer arxiu de text.
+
+Modifico el fitxer ivette.txt a branch1
